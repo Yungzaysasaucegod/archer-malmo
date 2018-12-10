@@ -1,0 +1,23 @@
+body {
+	background-image: url("img/archer.png")
+
+}
+p{
+	font-size:120%;
+
+}
+
+.page-wrapper {
+	background-color:orange;
+	width: 80%;
+	margin: 0 auto;
+}
+a{
+	font-size:200%;
+	margin: 0 auto;
+	width: 80%;
+	padding: 10%;
+}
+a:hover{
+	background-color:#FFB533;
+}
